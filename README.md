@@ -3,7 +3,7 @@ Hi 👋 My name is Nikita Romaniyko
 
 English: I am a beginner programmer, an IT college student, studying to become a software developer.
 
-Russian: я начинающий программист, студент ИТ колледжа, учусь на разработчика программного обеспечения.
+Russian: Я начинающий программист, студент ИТ колледжа, учусь на разработчика программного обеспечения.
 
 *   🌍  I'm based in Russia
 *   🧠  I'm learning mobile development
